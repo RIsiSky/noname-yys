@@ -1,0 +1,9 @@
+extension["阴阳师"]={
+	intro:"赛博阴阳师",
+	author:"瑾",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:[],
+	size:""
+};
